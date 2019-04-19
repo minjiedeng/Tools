@@ -1,3 +1,0 @@
-# numpy.dot(a, b, out=None): If a is an N-D array and b is an M-D array (where M>=2), 
-# it is a sum product over the last axis of a and the second-to-last axis of b. Thus,
-# The last dimension of a must be the same size as the second-to-last dimension of b.
