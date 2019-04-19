@@ -10,7 +10,7 @@ import numpy as np
 default_states = Vd_compat > self.Vc
 self.default_prob[:, :] = np.dot(self.PA, default_states)
 
-# If default_states(nA,nB,nx) with anther dimension, the above raises error.
+# If default_states(nA,nB,nx)  with another dimension, the above raises an error.
 
 
 
